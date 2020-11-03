@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+  background-color: white;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+	font-family: arial;
+  font-size: 20px;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+	font-family: verdana;
+  font-size: 16px;
+}
+
+h3 {
+  color: black;
+  text-align: center;
+	font-family: calibri;
+  font-size: 12px;
+}
+
+p {
+  font-family: Arial;
+  font-size: 12px;
+}
+	
+p2 {
+  font-family: Arial;
+  font-size: 16px;
+}
+	
