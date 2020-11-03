@@ -320,16 +320,19 @@ width: 100%;
 <body>
 <h1>Our menu</h1>
 <div class="container">
+     <div class="col-lg-3 col-md-6 col-sm-12">
       <p2 class="floating-box"><strong>Chicken</strong></p2>
        <p>free text free text free text free text free text free text free text free text</p>
    </div>
-<div class="container">     
+        <div class="col-lg-3 col-md-6 col-sm-12">
       <p3 class="floating-box1"><strong>Beef</strong></p3>
        <p>free text free text free text free text free text free text free text free text</p>
    </div>
-      <div class="container">        
+     
+      <div class="col-lg-3 col-md-6 col-sm-12">       
          <p2 class="floating-box2"><strong>Sushi</strong></p2>
        <p>free text free text free text free text free text free text free text free text</p>
+     </div>
      </div>
 </body>
 </html>
