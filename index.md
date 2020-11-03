@@ -55,7 +55,7 @@
        <p>free text free text free text free text free text free text free text free text</p>
    </div>
 <div class="container">     
-      <p2 class="floating-box1"><strong>Beef</strong></p2>
+      <p3 class="floating-box1"><strong>Beef</strong></p3>
        <p>free text free text free text free text free text free text free text free text</p>
    </div>
       <div class="container">        
