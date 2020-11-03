@@ -41,7 +41,9 @@
 <style>
 .container {
     border: 1px solid #010000;  
-	background: #B3B3B3
+	background: #B3B3B3; 
+	padding-left: 10px;
+	padding-right: 10px
 }
 </style>
 </head>
